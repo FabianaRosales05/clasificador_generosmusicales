@@ -1,0 +1,16 @@
+
+Modelo: MLP  |  Segmentos analizados: 3
+
+GÉNERO DETECTADO: CLASSICAL
+Confianza: 52.97 %
+
+  classical   52.97 %
+  jazz        20.65 %
+  hiphop       6.84 %
+  reggae       5.73 %
+  rock         4.87 %
+  metal        3.53 %
+  pop          2.05 %
+  disco        1.55 %
+  country      1.39 %
+  blues        0.42 %

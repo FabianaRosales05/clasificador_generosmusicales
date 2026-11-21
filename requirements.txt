@@ -1,0 +1,14 @@
+# Dependencias para Python 3.12 (Windows 64 bits)
+# Verificadas entre sí: TensorFlow 2.16.x exige NumPy < 2.0, y el resto de
+# versiones es compatible con NumPy 1.26.4 y Python 3.12.
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+librosa==0.10.2.post1
+scikit-learn==1.5.2
+tensorflow==2.16.2
+soundfile==0.12.1
+sounddevice==0.5.1
+joblib==1.4.2
+# Tkinter (interfaz gráfica) NO se instala con pip: viene con el instalador
+# oficial de Python 3.12 para Windows.

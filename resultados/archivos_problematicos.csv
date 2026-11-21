@@ -1,0 +1,2 @@
+archivo,genero,error
+jazz/jazz.00054.wav,jazz,No se pudo leer el audio (¿archivo dañado o formato no soportado?). Detalle: NoBackendError 

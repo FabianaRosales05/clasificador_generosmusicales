@@ -1,0 +1,30 @@
+# Entornos y archivos locales de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Datos originales y derivados voluminosos
+dataset/
+cache/
+
+# Archivos temporales, registros y copias de trabajo
+.pip-tmp/
+.pip-install.err
+.pip-install.log
+respaldo_preparacion_github_2026-11-20/
+.qa_informe_final/
+*.log
+
+# Salidas locales que pueden regenerarse o contienen grabaciones personales
+resultados/predicciones/grabacion_*.wav
+resultados/predicciones/_captura_prueba_*.txt
+
+# Esta grabación se conserva como evidencia de inferencia externa.
+!resultados/predicciones/grabacion_20261014_172759.wav
+
+# Sistema operativo y editor
+.DS_Store
+Thumbs.db
+.vscode/

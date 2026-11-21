@@ -1,0 +1,18 @@
+MLP (por segmento de 3 s)
+
+              precision    recall  f1-score   support
+
+       blues       0.67      0.69      0.68       150
+   classical       0.89      0.93      0.91       150
+     country       0.54      0.68      0.60       150
+       disco       0.72      0.54      0.62       150
+      hiphop       0.71      0.69      0.70       150
+        jazz       0.85      0.76      0.80       150
+       metal       0.84      0.79      0.81       150
+         pop       0.64      0.71      0.67       150
+      reggae       0.58      0.71      0.64       150
+        rock       0.53      0.41      0.47       150
+
+    accuracy                           0.69      1500
+   macro avg       0.70      0.69      0.69      1500
+weighted avg       0.70      0.69      0.69      1500

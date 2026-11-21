@@ -1,0 +1,15 @@
+# Mantener texto UTF-8 y finales de línea consistentes en GitHub.
+*.py      text eol=lf
+*.md      text eol=lf
+*.txt     text eol=lf
+*.csv     text eol=lf
+*.json    text eol=lf
+*.ipynb   text eol=lf
+
+# Los binarios no deben sufrir conversiones de texto.
+*.keras   binary
+*.pkl     binary
+*.png     binary
+*.wav     binary
+*.docx    binary
+*.xlsx    binary

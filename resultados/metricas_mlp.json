@@ -1,0 +1,86 @@
+{
+  "segmentos": {
+    "accuracy": 0.692,
+    "precision_macro": 0.6980744118490797,
+    "recall_macro": 0.692,
+    "f1_macro": 0.6908069868519886,
+    "precision_ponderada": 0.6980744118490797,
+    "recall_ponderado": 0.692,
+    "f1_ponderado": 0.6908069868519885,
+    "n_muestras": 1500,
+    "confusiones": [
+      [
+        "blues",
+        "country",
+        28
+      ],
+      [
+        "disco",
+        "pop",
+        27
+      ],
+      [
+        "rock",
+        "country",
+        27
+      ],
+      [
+        "hiphop",
+        "reggae",
+        25
+      ],
+      [
+        "rock",
+        "pop",
+        22
+      ],
+      [
+        "disco",
+        "hiphop",
+        17
+      ]
+    ]
+  },
+  "archivos": {
+    "accuracy": 0.7533333333333333,
+    "precision_macro": 0.762467197405278,
+    "recall_macro": 0.7533333333333334,
+    "f1_macro": 0.7488876680940576,
+    "precision_ponderada": 0.7624671974052778,
+    "recall_ponderado": 0.7533333333333333,
+    "f1_ponderado": 0.7488876680940576,
+    "n_muestras": 150,
+    "confusiones": [
+      [
+        "rock",
+        "pop",
+        4
+      ],
+      [
+        "disco",
+        "pop",
+        3
+      ],
+      [
+        "blues",
+        "country",
+        2
+      ],
+      [
+        "blues",
+        "reggae",
+        2
+      ],
+      [
+        "disco",
+        "hiphop",
+        2
+      ],
+      [
+        "hiphop",
+        "reggae",
+        2
+      ]
+    ]
+  }
+}
